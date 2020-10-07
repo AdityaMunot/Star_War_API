@@ -1,0 +1,5 @@
+
+requests
+Flask
+redis
+Flask-Caching
